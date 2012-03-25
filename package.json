@@ -1,0 +1,28 @@
+{
+  "name": "amplifyjsify",
+  "description": "AmplifyJS lib for browsers",
+  "version": "0.0.1",
+  "keywords": ["AmplifyJS"],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AbleCoder/amplifyjsify.git"
+  },
+  "dependencies": {},
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/appendto/amplify/blob/master/MIT-LICENSE.txt"
+  }],
+  "bugs": {
+    "url": "https://github.com/AbleCoder/amplifyjsify/issues"
+  },
+  "homepage": "https://github.com/AbleCoder/amplifyjsify",
+  "engines": {
+    "node": "*"
+  },
+  "author": {
+    "name": "AbleCoder",
+    "email": "brandon.orther+ablecoder@gmail.com",
+    "web": "http://AbleCoder.com"
+  },
+  "main": "core"
+}
